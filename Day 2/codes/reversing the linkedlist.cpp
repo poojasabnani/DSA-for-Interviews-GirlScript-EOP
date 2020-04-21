@@ -37,7 +37,7 @@ int main(){
     node* p;
     node* q;
     node* r;
-    p = q = nullptr; // q p r
+    p = q = nullptr; // p q r
     r = head;
     while(r!= nullptr){
         q = r;
