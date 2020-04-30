@@ -3,14 +3,14 @@
 ## Materials Shared
 * Slides for the most important DSA topics
 * 40+ Quality Questions
-* 150+ MCQ
+* 120+ MCQ
 * Books to prepare DSA for interviews
 
 ## Course Structure
 
 DAY | Topics Covered
 --- | --- 
-1 | Introduction to data structures, Time and space complexities
+1 | [Introduction to data structures, Time and space complexities](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%201)
 2 | Arrays, Linked list
 3 | Recursion , Stack , Queues
 4 | Trees, BST
