@@ -3,7 +3,7 @@
 ## Materials Shared
 * Slides for the most important DSA topics
 * 40+ Quality Questions
-* 120+ MCQ
+* 100+ MCQ
 * Books to prepare DSA for interviews
 
 ## Course Structure
