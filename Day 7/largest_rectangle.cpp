@@ -9,7 +9,7 @@
 	DIVIDE AND CONQUER!
 	case 1 : The largest rectange may be present in the left part or
 	case 2 : the largest rectange may be present in the right part or
-	case 3 : the largest rectange may be some part of left and some part of left
+	case 3 : the largest rectange may be some part of left and some part of right
 	
 	-> the first two problems can be solved using recursion and we just need 
 	to handle the third case. (in the code we did that case using helper() function.
