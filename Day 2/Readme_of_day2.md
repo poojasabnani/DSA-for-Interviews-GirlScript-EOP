@@ -7,7 +7,7 @@
 
 ## Theory
 
-Read from this [presentation](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%202/Array%20ppt%202.0.pptx?raw=true)
+[Arrays and Linked List](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%202/Array%20ppt%202.0.pptx?raw=true)
 
 ## Practise Problems
 
