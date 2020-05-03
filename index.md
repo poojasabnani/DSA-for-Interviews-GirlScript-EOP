@@ -2,12 +2,13 @@
 
 *This is a 14 day crash course of Data Structures and Algorithms which will cover almost all the basics required for the interviews.*
 
-## Materials Shared
+## Features of this course
 
 * Slides for the most important DSA topics
-* 40+ Quality Questions
+* 40+ Quality Questions 
 * 90+ MCQ
-* Books and other resources to prepare DSA for Interviews
+* 3 Practice contest
+* Books and other resources provided for DSA preparation
 
 ## Books for cracking DSA interviews
 
@@ -33,3 +34,8 @@ DAY | Topics Covered
 12-13| [Graph Algorithms](Day 12-13/Readme_of_day12-13.html)  
 14 | [STL and Problem Solving Sessions](Day 14/Readme_of_day14.html) 
  
+## Practise Contests
+
+* [Contest 1 : Data Structures]( https://www.hackerrank.com/girlscript-education-outreach-contest-1-dsa)
+* [Contest 2 : Algorithms] (https://www.hackerrank.com/girlscript-education-outreach-contest-2-dsa1) 
+* [Contest 3 : Grand Finale] (https://www.hackerrank.com/girlscript-education-outreach-contest-3-dsa)
