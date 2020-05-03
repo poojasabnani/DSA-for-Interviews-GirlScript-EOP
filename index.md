@@ -9,6 +9,13 @@
 * 90+ MCQ
 * Books and other resources to prepare DSA for Interviews
 
+## Books for cracking DSA interviews
+
+* [Cracking the coding interview](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Resources/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf)
+* [DSA book](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Resources/DSABook.pdf)
+* [Data Structures and Algorithms - Narasimha Karumanchi](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Resources/Data%20Structures%20and%20Algorithms%20-%20Narasimha%20Karumanchi.pdf)
+
+
 ## Course Structure
 
 DAY | Topics Covered 
