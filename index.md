@@ -22,7 +22,7 @@ DAY | Topics Covered
 7 | [Divide and Conquer ](Day%207/Readme_of_day7.html) 
 8 | [Greedy Algorithms ](Day%208/Readme_of_day8.html) 
 9 | [Backtracking ](Day%209/Readme_of_day9.html) 
-10-11 | [Dynamic Programming](Day 10-11/Readme_of_day10-11.html) 
-12-13| [Graph Algorithms](Day 12-13/Readme_of_day12-13.html)  
+10-11 | [Dynamic Programming]() 
+12-13| [Graph Algorithms]()  
 14 | [STL and Problem Solving Sessions]() 
  
