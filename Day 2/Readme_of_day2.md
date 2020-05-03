@@ -202,7 +202,7 @@ int main(){
     
     int m = 4;
     int n = 4;
-    int arr[m][n] = {{1,2,3,0},{0,4,5,6},{7,11,2,1},{2,8,0,19}};
+    int arr[m][n] = {1,2,3,0,0,4,5,6,7,11,2,1,2,8,0,19};
     int rowFlag[m];
     int colFlag[n]; 
     // remember memset only works for (0 or -1) 
