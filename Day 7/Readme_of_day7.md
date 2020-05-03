@@ -6,7 +6,7 @@ Divide and Conquer Algorithms
 
 ## Theory
 
-Read from this [presentation](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%207/Divide%20and%20Conquer.pptx?raw=true)
+[Divide and Conquer Algorithms](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%207/Divide%20and%20Conquer.pptx?raw=true)
 
 ## Quiz
 
