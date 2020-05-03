@@ -115,7 +115,7 @@ int main(){
 }
 ```
 
-#### problem 3.
+#### Problem 3.
 
 Given an array "A". for every element print the multiplication of every number except that number.
 
