@@ -19,7 +19,7 @@ DAY | Topics Covered |  Quiz
 7 | [Divide and conquer ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%207) | [Quiz 7](https://forms.gle/aRVxwUMHGLGNBgtK9)
 8 | [Greedy Algorithms ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%208) | [Quiz 8](https://forms.gle/sds8ivs7nJAL9J8cA)
 9 | [Backtracking ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%209) | [Quiz 9](https://forms.gle/oTwnCsKhtj6YV57t9)
-10 | [Dynamic Programming 1 ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%2010) | [Quiz 10](https://forms.gle/YiRxRzx6KSHE5oW56)
+10 | [Dynamic Programming 1 ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%2010-11) | [Quiz 10](https://forms.gle/YiRxRzx6KSHE5oW56)
 11 | Dynamic Programming 2  |
 12 | Graphs 1 | 
 13 | Graphs 2 |
