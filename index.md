@@ -20,19 +20,19 @@ This is a 14 day crash course of Data Structures and Algorithms which will cover
 ## Course Structure
 
 DAY | Topics Covered 
---- | --- 
-1 | [Introduction to Data Structures, Time and Space Complexities](Day%201/Readme_of_day1.html) 
-2 | [Arrays, Linked list](Day%202/Readme_of_day2.html) 
-3 | [Recursion , Stack , Queues](Day%203/Readme_of_day3.html) 
-4 | [Trees, BST](Day%204/Readme_of_day4.html) 
-5 | [Heaps](Day%205/Readme_of_day5.html) 
-6 | [Introduction to Algorithms, Sorting and Searching Algorithms ](Day%206/Readme_of_day6.html ) 
-7 | [Divide and Conquer ](Day%207/Readme_of_day7.html) 
-8 | [Greedy Algorithms ](Day%208/Readme_of_day8.html) 
-9 | [Backtracking ](Day%209/Readme_of_day9.html) 
-10-11 | [Dynamic Programming](Day 10-11/Readme_of_day10-11.html) 
-12-13| [Graph Algorithms](Day 12-13/Readme_of_day12-13.html)  
-14 | [STL and Problem Solving Sessions](Day 14/Readme_of_day14.html) 
+------- | --- 
+1     | [Introduction to Data Structures, Time and Space Complexities](Day%201/Readme_of_day1.html) 
+2     | [Arrays, Linked list](Day%202/Readme_of_day2.html) 
+3     | [Recursion , Stack , Queues](Day%203/Readme_of_day3.html) 
+4     | [Trees, BST](Day%204/Readme_of_day4.html) 
+5     | [Heaps](Day%205/Readme_of_day5.html) 
+6     | [Introduction to Algorithms, Sorting and Searching Algorithms ](Day%206/Readme_of_day6.html ) 
+7     | [Divide and Conquer ](Day%207/Readme_of_day7.html) 
+8     | [Greedy Algorithms ](Day%208/Readme_of_day8.html) 
+9     | [Backtracking ](Day%209/Readme_of_day9.html) 
+10-11 | [Dynamic Programming](Day%10-11/Readme_of_day10-11.html) 
+12-13 | [Graph Algorithms](Day%12-13/Readme_of_day12-13.html)  
+14    | [STL and Problem Solving Sessions](Day%14/Readme_of_day14.html) 
  
 ## Practise Contests
 
