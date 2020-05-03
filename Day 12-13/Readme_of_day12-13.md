@@ -6,9 +6,7 @@ Graph Algorithms
 
 ## Theory
 
-[Graphs Part 1](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%2012-13/Graphs.pptx?raw=true)
-
-[Graphs Part 2]()
+[Graphs Algorithms](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%2012-13/Graphs.pptx)
 
 ## Quiz
 
