@@ -4,7 +4,7 @@
 * Slides for the most important DSA topics
 * 40+ Quality Questions
 * 100+ MCQ
-* Books to prepare DSA for interviews
+* Books to prepare DSA for Interviews
 
 ## Course Structure
 
@@ -19,8 +19,8 @@ DAY | Topics Covered |  Quiz
 7 | [Divide and Conquer ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%207) | [Quiz 7](https://forms.gle/aRVxwUMHGLGNBgtK9)
 8 | [Greedy Algorithms ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%208) | [Quiz 8](https://forms.gle/sds8ivs7nJAL9J8cA)
 9 | [Backtracking ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%209) | [Quiz 9](https://forms.gle/oTwnCsKhtj6YV57t9)
-10 | [Dynamic Programming 1 ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%2010-11) | [Quiz 10](https://forms.gle/YiRxRzx6KSHE5oW56)
-11 | Dynamic Programming 2  |
+10-11 | [Dynamic Programming ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/tree/master/Day%2010-11) | [Quiz 10](https://forms.gle/YiRxRzx6KSHE5oW56)
+
 12 | Graphs 1 | 
 13 | Graphs 2 |
 14 | STL |
