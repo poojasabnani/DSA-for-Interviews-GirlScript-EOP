@@ -37,5 +37,5 @@ DAY | Topics Covered
 ## Practise Contests
 
 * [Contest 1 : Data Structures]( https://www.hackerrank.com/girlscript-education-outreach-contest-1-dsa)
-* [Contest 2 : Algorithms] (https://www.hackerrank.com/girlscript-education-outreach-contest-2-dsa1) 
-* [Contest 3 : Grand Finale] (https://www.hackerrank.com/girlscript-education-outreach-contest-3-dsa)
+* [Contest 2 : Algorithms](https://www.hackerrank.com/girlscript-education-outreach-contest-2-dsa1) 
+* [Contest 3 : Grand Finale](https://www.hackerrank.com/girlscript-education-outreach-contest-3-dsa)
