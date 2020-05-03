@@ -80,7 +80,7 @@ long _largestRectangle(vector<int> h, long s , long e ) {
     if(e == s+1){
         return max({h[s],h[e],min(h[e],h[s])*2});
     }
-    if(s == e){ // re-look
+    if(s == e){ 
         return h[s];
     }
     long mid = (s+e)/2;
