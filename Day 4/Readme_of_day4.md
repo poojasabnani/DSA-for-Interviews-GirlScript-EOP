@@ -6,11 +6,11 @@ Tree Data Structure
 
 ## Theory
 
-[Presentation 1](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%204/Tree%20introduction.pptx?raw=true)
+[Introduction to Trees](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%204/Tree%20introduction.pptx?raw=true)
 
-[Presentation 2](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%204/Trees.pptx?raw=true)
+[Trees](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%204/Trees.pptx?raw=true)
 
-[Solution to problems present in presentation 2](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%204/solution%20of%20trees%20question.pptx?raw=true)
+[Solution to problems present in Trees ppt](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%204/solution%20of%20trees%20question.pptx?raw=true)
 
 ## Quiz
 
