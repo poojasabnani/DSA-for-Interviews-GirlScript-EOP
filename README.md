@@ -5,6 +5,7 @@
 * 40+ Quality Questions
 * 100+ MCQ
 * Books to prepare DSA for Interviews
+* Contests for practice
 
 ## Course Structure
 
