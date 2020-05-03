@@ -6,7 +6,7 @@ Dynamic programming
 
 ## Theory
 
-Read from this [Presentation](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%2010-11/DynamicProgramming.pptx?raw=true)
+[Dynamic Programming](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%2010-11/DynamicProgramming.pptx?raw=true)
 
 ### Other resources
 
