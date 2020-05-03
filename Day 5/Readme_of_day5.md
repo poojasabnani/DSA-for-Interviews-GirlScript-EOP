@@ -6,7 +6,7 @@ Heaps
 
 ## Theory
 
-Read from this [presentation](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%205/Heap.pptx?raw=true)
+[Heaps](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%205/Heap.pptx?raw=true)
 
 ## Quiz
 
