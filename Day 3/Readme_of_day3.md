@@ -8,9 +8,9 @@
 
 ## Theory
 
-[Presentation 1](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%203/stackandqueue.pptx?raw=true)
+[Stack and Queue](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%203/stackandqueue.pptx?raw=true)
 
-[Presentation 2](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%203/Recursion.pptx?raw=true)
+[Recursion](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%203/Recursion.pptx?raw=true)
 
 ### Other resources
 
