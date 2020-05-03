@@ -7,9 +7,9 @@
 
 ## Theory
 
-[Presentation ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%201/Day1.pptx?raw=true)
+[Time and Space complexity ](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%201/Day1.pptx?raw=true)
 
-[Solutions to problems discussed in presentation](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%201/Day1.pptx?raw=true)
+[Solutions to problems discussed in the above presentation](https://github.com/py93/DSA-for-Interviews-GirlScript-EOP/blob/master/Day%201/Day1.pptx?raw=true)
 
 ### Other resources
 
