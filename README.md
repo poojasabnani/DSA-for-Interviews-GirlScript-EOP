@@ -1,5 +1,7 @@
 # DSA for Interviews : GirlScript Education Outreach
 
+## [Course Webisite](https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/)
+
 ![logo](GSlogo.jpg)
 
 This is a 14 day crash course of Data Structures and Algorithms which will cover almost all the basics required for the interviews.
@@ -23,18 +25,18 @@ This is a 14 day crash course of Data Structures and Algorithms which will cover
 
 DAY | Topics Covered 
 ------- | --- 
-1     | [Introduction to Data Structures, Time and Space Complexities](Day%201/Readme_of_day1.md) 
-2     | [Arrays, Linked list](Day%202/Readme_of_day2.md) 
-3     | [Recursion , Stack , Queues](Day%203/Readme_of_day3.md) 
-4     | [Trees, BST](Day%204/Readme_of_day4.md) 
+1     | [Introduction to Data Structures, Time and Space Complexities](Day%201/) 
+2     | [Arrays, Linked list](Day%202/) 
+3     | [Recursion , Stack , Queues](Day%203/) 
+4     | [Trees, BST](Day%204/) 
 5     | [Heaps](Day%205/Readme_of_day5.md) 
-6     | [Introduction to Algorithms, Sorting and Searching Algorithms ](Day%206/Readme_of_day6.md ) 
-7     | [Divide and Conquer ](Day%207/Readme_of_day7.html) 
-8     | [Greedy Algorithms ](Day%208/Readme_of_day8.md) 
-9     | [Backtracking ](Day%209/Readme_of_day9.md) 
-10-11 | [Dynamic Programming](Day 10-11/Readme_of_day10-11.md) 
-12-13 | [Graph Algorithms](Day 12-13/Readme_of_day12-13.md)  
-14    | [STL and Problem Solving Sessions](Day 14/Readme_of_day14.md) 
+6     | [Introduction to Algorithms, Sorting and Searching Algorithms ](Day%206/ ) 
+7     | [Divide and Conquer ](Day%207/) 
+8     | [Greedy Algorithms ](Day%208/) 
+9     | [Backtracking ](Day%209/) 
+10-11 | [Dynamic Programming ](Day%2010-11/)
+12-13 | [Graph Algorithms](Day%2012-13/)  
+14    | [STL and Problem Solving Sessions](Day%2014/) 
  
 ## Practise Contests
 
