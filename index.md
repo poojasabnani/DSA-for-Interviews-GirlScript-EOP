@@ -1,5 +1,7 @@
 # DSA for Interviews : GirlScript Education Outreach
 
+![logo](GSlogo.jpg)
+
 This is a 14 day crash course of Data Structures and Algorithms which will cover almost all the basics required for the interviews.
 
 ## Features of this course
