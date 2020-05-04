@@ -1,6 +1,6 @@
 # DSA for Interviews : GirlScript Education Outreach
 
-## [Course Webisite](https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/)
+## [Course Website](https://py93.github.io/DSA-for-Interviews-GirlScript-EOP/)
 
 ![logo](GSlogo.jpg)
 
